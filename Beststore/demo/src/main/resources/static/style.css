@@ -1,0 +1,45 @@
+/* Importation d'une police de luxe */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Montserrat:wght@300;400;600&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: #1a1a1a;
+    background-color: #ffffff;
+}
+
+h1, h2, h3, .navbar-brand {
+    font-family: 'Playfair Display', serif;
+    letter-spacing: 2px;
+}
+
+/* Couleurs de luxe : Or et Noir */
+.text-gold { color: #D4AF37 !important; }
+.bg-luxury-dark { background-color: #111111 !important; }
+
+/* Boutons personnalisés */
+.btn-luxury {
+    background-color: #111111;
+    color: #ffffff;
+    border: 1px solid #111111;
+    padding: 12px 30px;
+    transition: all 0.4s;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 0.9rem;
+}
+
+.btn-luxury:hover {
+    background-color: #D4AF37;
+    border-color: #D4AF37;
+    color: white;
+}
+
+/* Effet sur les cartes produits */
+.product-card {
+    border: none;
+    transition: transform 0.3s ease;
+}
+
+.product-card:hover {
+    transform: translateY(-10px);
+}

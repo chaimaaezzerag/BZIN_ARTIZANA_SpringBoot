@@ -1,0 +1,16 @@
+com\boostmytool\beststore\services\AppUserService.class
+com\boostmytool\beststore\services\FavoriteRepository.class
+com\boostmytool\beststore\services\ProductsRepository.class
+com\boostmytool\beststore\controllers\HomeController.class
+com\boostmytool\beststore\models\RegisterDto.class
+com\boostmytool\beststore\models\Favorite.class
+com\boostmytool\beststore\controllers\ProductsController.class
+com\boostmytool\beststore\models\AppUser.class
+com\boostmytool\beststore\controllers\AdminController.class
+com\boostmytool\beststore\config\SecurityConfig.class
+com\boostmytool\beststore\services\UserRepository.class
+com\boostmytool\beststore\BeststoreApplication.class
+com\boostmytool\beststore\models\Product.class
+com\boostmytool\beststore\config\WebConfig.class
+com\boostmytool\beststore\controllers\RegisterController.class
+com\boostmytool\beststore\models\ProductDto.class
